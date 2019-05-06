@@ -2,9 +2,9 @@ package test01;
 
 public class test {
 		public static void main(String[] args) {
-			System.out.println("传上来了.......................");
+			System.out.println("麓芦脡脧脌麓脕脣.......................");
 			System.out.println("dsfdsfsdf");
 			System.out.println("dsfdsfsdf");
 			System.out.println("dsfdsfsdf");
-		}
+			System.out.println("github......");
 }
